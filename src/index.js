@@ -63,7 +63,7 @@ class App extends  React.Component {
                 <div className="container">
 
                 <br/>
-                <PlayerDetail nome="Eliseu Dias Rodrigues" VetorJogadores={this.VetorJogadores[this.state.indice]}>
+                <PlayerDetail nome="SoccerManager" VetorJogadores={this.VetorJogadores[this.state.indice]}>
                 </PlayerDetail>
                 <br/>
 
